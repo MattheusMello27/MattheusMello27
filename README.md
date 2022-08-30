@@ -9,4 +9,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mattheusmello27&layout=compact&langs_count=16&theme=dark"/>
 </div>
 
-![Snake animation](https://github.com/rafaballerini2/rafaballerini2/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mattheusmello27/mattheusmello27/blob/output/github-contribution-grid-snake.svg)
